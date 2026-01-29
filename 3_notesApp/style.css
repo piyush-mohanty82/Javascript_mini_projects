@@ -70,3 +70,7 @@ html, body {
 
 
 }
+
+.notes-container .input-box img {
+    cursor: pointer;
+}
