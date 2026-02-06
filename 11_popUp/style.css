@@ -43,6 +43,8 @@ html, body {
     visibility: hidden;
     transition: transform 0.4s ,top 0.4s;
 
+    
+
 }
 .open-popup {
     visibility: visible;
